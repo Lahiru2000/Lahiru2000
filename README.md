@@ -2,14 +2,13 @@
 
 # 👋 Hi, I'm Lahiru!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Final+Year+IT+Student+at+University+of+Sri+Jayewardenepura;Full-Stack+Developer;MERN+Stack+Enthusiast;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Final+Year+IT+Student+at+SLIIT;Full-Stack+Developer;MERN+Stack+Enthusiast;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -21,7 +20,7 @@
 <tr>
 <td width="60%">
   
-- 🎓 Final Year IT Student at **SLIIT** 🇱🇰  
+- 🎓 **Final Year IT Student at SLIIT** 🇱🇰  
 - 💻 Passionate about Full-Stack Development  
 - 🔥 Building CRUD Apps using the **MERN Stack**  
 - 🤖 Exploring AI Tools in Web Development  
@@ -88,25 +87,44 @@
 </tr>
 </table>
 
+---
+
+<div align="center">
+
 ## 🌱 Learning Journey
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="65" /><br /><strong>MongoDB</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="65" /><br /><strong>Express.js</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="65" /><br /><strong>React</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65" /><br /><strong>Node.js</strong></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="65" /><br /><strong>Git</strong></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7e18d7.gif" width="65" /><br /><strong>AI Tools</strong></td>
-<td colspan="2" align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" /><br /><strong>Always Exploring New Tech!</strong></td>
+  <td width="100" align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br />
+    <strong>Curiosity</strong>
+  </td>
+  <td width="100" align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="60" /><br /><strong>MongoDB</strong>
+  </td>
+  <td width="100" align="center">
+    <img src="https://skillicons.dev/icons?i=express" width="60" /><br /><strong>Express.js</strong>
+  </td>
+  <td width="100" align="center">
+    <img src="https://skillicons.dev/icons?i=react" width="60" /><br /><strong>React</strong>
+  </td>
+  <td width="100" align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="60" /><br /><strong>Node.js</strong>
+  </td>
+  <td width="100" align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="60" /><br /><strong>Git</strong>
+  </td>
+  <td width="100" align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7e18d7.gif" width="60"><br /><strong>AI Tools</strong>
+  </td>
+  <td width="150" align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br />
+    <strong>Exploring New Tech</strong>
+  </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -141,7 +159,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a5-4ae7-9a33-bc6a4e6dfa9d.gif" width="150">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
