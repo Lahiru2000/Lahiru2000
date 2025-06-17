@@ -88,6 +88,6 @@ Thank you for taking the time to explore my GitHub profile! I'm always eager to 
   
 *"The best way to predict the future is to create it."* 💡
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Lahiru2000&color=blue&style=flat-square)
 
 </div>
