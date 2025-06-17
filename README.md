@@ -68,18 +68,25 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Lahiru2000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lahiru2000&theme=react&border_radius=10" alt="readme streak" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
----
-
-<div align="center">
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lahiru2000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" width="380" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" width="320" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Lahiru2000&theme=react&border_radius=10" width="700" />
+  </td>
+</tr>
+</table>
 
 ## 🌱 Learning Journey
 
