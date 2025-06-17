@@ -1,93 +1,190 @@
-# Hi there! 👋 I'm Lahiru Kanchana
-
-### 🎓 Final Year IT Student | 🇱🇰 Sri Lanka | 💻 Full-Stack Developer
-
-Welcome to my GitHub profile! I'm passionate about creating innovative web applications and exploring the exciting world of technology. Currently diving deep into the MERN stack and building my skills one project at a time.
-
----
-
-## 🛠️ **My Tech Stack**
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
-
 <div align="center">
-  
-![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lahiru2000&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru2000&layout=compact&theme=dark)
+# 👋 Hi, I'm Lahiru!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Final+Year+IT+Student;Full-Stack+Developer;MERN+Stack+Enthusiast;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
 
 ---
 
-## 🌱 **Currently Learning**
+<div align="center">
 
-- 🍃 **MongoDB**: Mastering NoSQL database design and operations
-- ⚡ **Express.js**: Building robust backend APIs and server-side logic
-- ⚛️ **React**: Creating dynamic and responsive user interfaces
-- 🚀 **Node.js**: Developing scalable server-side applications
-- 🔧 **Git**: Version control and collaborative development workflows
-- 🤖 **AI Tools**: Exploring artificial intelligence applications in development
+## 🚀 About Me
 
----
+</div>
 
-## 🎯 **Projects and Goals**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🔥 **Current Focus**: Building comprehensive CRUD applications using the **MERN Stack**
+- 🎓 **Final Year IT Student** from **Sri Lanka** 🇱🇰
+- 💻 **Passionate Full-Stack Developer**
+- 🔥 **Building CRUD Apps** with **MERN Stack**
+- 🤖 **Exploring AI Tools** for development
+- 🌱 **Always Learning** new technologies
+- ⚡ **Fun fact**: I love turning ideas into reality through code!
 
-### What I'm Working On:
-- Developing full-stack web applications with complete Create, Read, Update, Delete functionality
-- Integrating modern UI/UX principles with React components
-- Implementing RESTful APIs with Express.js and Node.js
-- Working with MongoDB for efficient data storage and retrieval
-- Exploring AI-based development tools to enhance productivity
-- Learning industry best practices for code organization and deployment
-
-### My Goals:
-- 🎯 Master the MERN stack ecosystem
-- 🚀 Deploy production-ready applications
-- 🤝 Contribute to open-source projects
-- 📚 Stay updated with the latest web development trends
-- 💼 Build a strong portfolio for career opportunities
-
----
-
-## 📫 **Let's Connect!**
-
-I'm always excited to connect with fellow developers and tech enthusiasts!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-## 🙏 **Thanks for Visiting!**
-
-Thank you for taking the time to explore my GitHub profile! I'm always eager to learn, collaborate, and share knowledge with the amazing developer community. Feel free to check out my repositories, and don't hesitate to reach out if you'd like to connect or collaborate on exciting projects!
-
-⭐ **Happy Coding!** ⭐
+<br clear="both"/>
 
 ---
 
 <div align="center">
-  
-*"The best way to predict the future is to create it."* 💡
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lahiru2000&color=blue&style=flat-square)
+## 🛠️ Tech Arsenal
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+</div>
+
+<div align="center">
+
+### 🎨 Frontend Magic
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend Power
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=react&border_radius=10" alt="readme streak" />
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Learning Journey
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+<br /><strong>MongoDB</strong>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+<br /><strong>Express.js</strong>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+<br /><strong>React</strong>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+<br /><strong>Node.js</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<br /><strong>Git</strong>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7e18d7.gif" width="65" height="65" alt="AI Tools" />
+<br /><strong>AI Tools</strong>
+</td>
+<td colspan="2" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" height="65" alt="Learning" />
+<br /><strong>Always Exploring New Tech!</strong>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 Current Mission
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+</div>
+
+<div align="center">
+
+### 🚀 **Building MERN Stack CRUD Applications**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<br /><strong>🔥 Current Focus</strong>
+<br />Full-Stack CRUD Apps
+</td>
+<td align="center" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80">
+<br /><strong>🎯 Goals</strong>
+<br />Master MERN Ecosystem
+</td>
+<td align="center" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212257469-7ce42536-9b84-4c35-ace1-6d5dd76d09f8.gif" width="80">
+<br /><strong>🤖 Exploring</strong>
+<br />AI Development Tools
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect!
+
+<img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a5-4ae7-9a33-bc6a4e6dfa9d.gif" width="150">
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🙏 Thanks for Stopping By!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+**Happy Coding!** ⭐
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
