@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 
 <div align="center">
   
-![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)
+![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lahiru2000&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru2000&layout=compact&theme=dark)
 
 </div>
 
