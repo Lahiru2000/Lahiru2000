@@ -20,7 +20,8 @@
 <tr>
 <td width="60%">
   
-- 🎓 **Final Year IT Student at SLIIT** 🇱🇰  
+- 🎓 **Final Year IT Student at SLIIT** 🇱🇰
+  
 - 💻 Passionate about Full-Stack Development  
 - 🔥 Building CRUD Apps using the **MERN Stack**  
 - 🤖 Exploring AI Tools in Web Development  
