@@ -81,11 +81,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" width="320" />
   </td>
 </tr>
-<tr>
-  <td colspan="2" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Lahiru2000&theme=react&border_radius=10" width="700" />
-  </td>
-</tr>
 </table>
 
 ---
